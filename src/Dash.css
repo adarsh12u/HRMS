@@ -1,0 +1,18 @@
+.income{
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+}
+.gradient{
+    background: rgb(75,142,222);
+    background: linear-gradient(90deg, rgba(75,142,222,1) 34%, rgba(74,64,176,1) 100%, rgba(74,64,176,1) 100%, rgba(54,67,75,1) 100%, rgba(76,26,72,1) 100%, rgba(32,23,121,1) 100%, rgba(85,40,64,1) 100%, rgba(83,14,14,1) 100%, rgba(54,67,75,1) 100%);}
+    .gradient2{
+        background: rgb(75,84,94);
+background: linear-gradient(90deg, rgba(75,84,94,1) 67%, rgba(54,67,75,1) 100%, rgba(74,67,164,1) 100%, rgba(35,35,69,1) 100%, rgba(74,64,176,1) 100%, rgba(74,64,176,1) 100%, rgba(76,26,72,1) 100%, rgba(32,23,121,1) 100%, rgba(85,40,64,1) 100%, rgba(83,14,14,1) 100%, rgba(54,67,75,1) 100%, rgba(15,28,36,1) 152%);
+    }
+
+    .bgcolor{
+        min-height: 89vh;
+        background-color: #ECEFF1;
+        background: linear-gradient(158deg , rgb(224,224,224) 0% , rrgb(233,237,254)100%);
+    }
